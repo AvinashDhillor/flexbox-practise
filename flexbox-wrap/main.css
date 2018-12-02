@@ -1,0 +1,45 @@
+.box {
+  color: white;
+  text-align: center;
+  font-size: 100px;
+  text-shadow: 3px 3px 5px black;
+  padding: 10px;
+}
+
+.box1 {
+  background-color: red;
+}
+.box2 {
+  background-color: green;
+}
+
+.box3 {
+  background-color: blue;
+}
+
+.box4 {
+  background-color: pink;
+}
+.box5 {
+  background-color: orange;
+}
+.box6 {
+  background-color: yellow;
+}
+.box7 {
+  background-color: purple;
+}
+.box8 {
+  background-color: maroon;
+}
+
+.container {
+  display: flex;
+  border: 10px solid goldenrod;
+  height: 100vh;
+  flex-wrap: wrap;
+}
+
+.box {
+  width: 33.333%;
+}
